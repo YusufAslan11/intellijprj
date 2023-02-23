@@ -4,5 +4,6 @@ public class Class01 {
 
 
         System.out.println("1. Çalışmam");
+        System.out.println("2.Çalışmam githubdan")
     }
 }
